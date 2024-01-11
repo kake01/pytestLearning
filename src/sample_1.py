@@ -1,2 +1,2 @@
-def convert():
+def sample_f():
     return 1
